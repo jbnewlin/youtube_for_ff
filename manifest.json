@@ -7,7 +7,7 @@
   "description": "Does the necessary things for Youtube.",
 
   "icons": {
-    "48": "images/logo.jpg"
+    "48": "icons/logo48x.jpg"
   },
 
   "content_scripts": [
